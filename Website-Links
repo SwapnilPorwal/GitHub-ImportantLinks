@@ -23,8 +23,11 @@ http://pilhuhn.blogspot.in/2013/01/testing-rest-apis-with-rest-assured.html
 Rest API's Links for testing
 ==========================
 http://restapi.demoqa.com/utilities/weatherfull/city/hyderabad
-
-
+http://restapi.demoqa.com/utilities/locationutil/mylocation
+http://restapi.demoqa.com/utilities/weatherxml/city/hyderabad
+http://restapi.demoqa.com/utilities/weather/city/Hyderabad
+Authentication - http://restapi.demoqa.com/authentication/CheckForAuthentication
+********************************************************************
 
 YouTube Channel
 ===============
